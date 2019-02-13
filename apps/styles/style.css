@@ -1,0 +1,8 @@
+.lightOn{
+background-color: yellow;
+}
+section{
+height: 700px;
+width: 700px;
+border-radius: 100%;
+}
